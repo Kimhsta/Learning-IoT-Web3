@@ -1,9 +1,93 @@
 # Apa itu IoT?
 
-IoT, atau Internet of Things, mengacu pada jaringan kolektif perangkat yang saling terhubung dan teknologi yang memfasilitasi komunikasi antara perangkat-perangkat tersebut dan cloud.
 
-Berkat hadirnya chip komputer berbiaya rendah dan telekomunikasi berbandwidth tinggi, kini kita memiliki miliaran perangkat yang terhubung ke internet. Ini berarti perangkat sehari-hari seperti sikat gigi, penyedot debu, mobil, dan mesin dapat menggunakan sensor untuk mengumpulkan data dan merespons pengguna secara cerdas. Perangkat IoT di dalam objek fisik tersebut biasanya termasuk dalam salah satu dari dua kategori: switch (mengirim instruksi ke suatu objek) atau sensor (mengumpulkan data dan mengirimkannya ke tempat lain).
+![Internet of Things](images/iot.jpg
+)
 
-Internet of Things mengintegrasikan “benda-benda” sehari-hari dengan internet. Insinyur komputer telah menambahkan sensor dan prosesor ke objek sehari-hari sejak tahun 1990-an. Namun, pada awalnya perkembangannya lambat karena chip masih besar dan tebal. Chip komputer berdaya rendah yang disebut tag RFID pertama kali digunakan untuk melacak peralatan mahal. Seiring ukuran perangkat komputasi semakin kecil, chip-chip ini juga menjadi lebih kecil, lebih cepat, dan lebih cerdas.
+IoT atau *Internet of Things* adalah konsep di mana benda-benda fisik dapat terhubung ke internet untuk mengumpulkan, mengirim, dan menerima data secara otomatis.
 
-Biaya untuk mengintegrasikan daya komputasi ke dalam objek kecil pun berkurang secara signifikan. Sebagai contoh, dimungkinkan untuk menambahkan konektivitas melalui kemampuan layanan suara Alexa ke MCU dengan RAM onboard kurang dari 1 MB, seperti sakelar lampu. Seluruh sektor kemudian muncul dengan tujuan mengisi rumah, perusahaan, dan tentu saja berbagai perangkat dengan perangkat IoT. Objek-objek pintar ini dapat secara otomatis mengirimkan data ke dan dari internet. “Perangkat komputasi tak terlihat” ini beserta teknologinya disebut Internet of Things.
+Dengan kata lain, IoT membuat benda sehari-hari menjadi lebih “cerdas”. Benda-benda tersebut tidak hanya digunakan secara biasa, tetapi juga bisa berkomunikasi dengan sistem lain melalui jaringan internet.
+
+## Mengapa IoT Bisa Berkembang?
+
+Perkembangan IoT didukung oleh beberapa hal, yaitu:
+- chip komputer yang semakin kecil,
+- biaya perangkat yang semakin murah,
+- koneksi internet yang semakin cepat,
+- serta teknologi cloud yang memudahkan penyimpanan dan pengolahan data.
+
+Karena perkembangan tersebut, sekarang banyak perangkat di sekitar kita dapat dibuat menjadi perangkat pintar.
+
+## Contoh Perangkat IoT
+
+Beberapa contoh perangkat IoT dalam kehidupan sehari-hari antara lain:
+- lampu pintar,
+- kamera keamanan,
+- smartwatch,
+- mobil pintar,
+- alat ukur air digital,
+- penyedot debu otomatis,
+- dan berbagai mesin industri.
+
+Perangkat-perangkat tersebut dapat bekerja lebih cerdas karena mampu membaca kondisi lingkungan, mengirim data, dan merespons perintah pengguna.
+
+## Komponen Dasar pada Perangkat IoT
+
+Secara umum, perangkat IoT biasanya memiliki dua jenis fungsi utama:
+
+### 1. Sensor
+
+![Sensor](images/Jenis-jenis-Sensor.png)
+Sensor berfungsi untuk mengumpulkan data dari lingkungan.  
+Contohnya:
+- sensor suhu,
+- sensor kelembapan,
+- sensor gerak,
+- sensor cahaya,
+- sensor lokasi.
+
+### 2. Switch atau Aktuator
+
+![Switch](images/Switch.webp)
+Switch atau aktuator berfungsi untuk menjalankan perintah terhadap suatu objek.  
+Contohnya:
+- menyalakan lampu,
+- membuka pintu otomatis,
+- menyalakan kipas,
+- mengaktifkan pompa air.
+
+## Bagaimana IoT Mengubah Benda Biasa Menjadi Pintar?
+
+IoT menghubungkan benda-benda fisik dengan internet. Artinya, benda yang sebelumnya hanya digunakan secara manual kini dapat:
+- mengirim data,
+- menerima perintah,
+- merespons kondisi tertentu,
+- dan bekerja secara otomatis.
+
+Sebagai contoh, lampu rumah yang terhubung ke internet dapat dinyalakan dari smartphone. Kamera keamanan dapat mengirim notifikasi saat mendeteksi gerakan. Smartwatch dapat memantau detak jantung lalu menampilkan hasilnya ke aplikasi.
+
+## Perkembangan Awal IoT
+
+Gagasan menghubungkan benda dengan teknologi komputasi sebenarnya sudah ada sejak lama. Sejak tahun 1990-an, para insinyur mulai menambahkan sensor dan prosesor ke berbagai objek sehari-hari. Namun, saat itu perkembangannya masih lambat karena ukuran chip masih besar dan kurang efisien.
+
+Salah satu teknologi awal yang banyak digunakan adalah RFID, yaitu chip berdaya rendah yang dipakai untuk melacak peralatan atau barang tertentu. Seiring waktu, ukuran chip semakin kecil, kecepatannya meningkat, dan kemampuannya menjadi lebih baik.
+
+## Mengapa IoT Penting?
+
+IoT penting karena memungkinkan berbagai proses dilakukan dengan lebih:
+- otomatis,
+- cepat,
+- efisien,
+- dan cerdas.
+
+Dengan IoT, manusia tidak harus selalu memantau sesuatu secara langsung. Data dapat dikirim secara otomatis, lalu sistem dapat membantu mengambil keputusan atau menjalankan tindakan tertentu.
+
+## Ringkasan
+
+Secara sederhana, IoT adalah teknologi yang menghubungkan benda fisik ke internet agar benda tersebut dapat mengumpulkan data, bertukar informasi, dan bekerja lebih cerdas.
+
+Jadi, IoT dapat dipahami sebagai gabungan dari:
+- benda fisik,
+- sensor atau aktuator,
+- koneksi internet,
+- dan pertukaran data secara otomatis.
