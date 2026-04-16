@@ -1,0 +1,9 @@
+# Apa itu IoT?
+
+IoT, atau Internet of Things, mengacu pada jaringan kolektif perangkat yang saling terhubung dan teknologi yang memfasilitasi komunikasi antara perangkat-perangkat tersebut dan cloud.
+
+Berkat hadirnya chip komputer berbiaya rendah dan telekomunikasi berbandwidth tinggi, kini kita memiliki miliaran perangkat yang terhubung ke internet. Ini berarti perangkat sehari-hari seperti sikat gigi, penyedot debu, mobil, dan mesin dapat menggunakan sensor untuk mengumpulkan data dan merespons pengguna secara cerdas. Perangkat IoT di dalam objek fisik tersebut biasanya termasuk dalam salah satu dari dua kategori: switch (mengirim instruksi ke suatu objek) atau sensor (mengumpulkan data dan mengirimkannya ke tempat lain).
+
+Internet of Things mengintegrasikan “benda-benda” sehari-hari dengan internet. Insinyur komputer telah menambahkan sensor dan prosesor ke objek sehari-hari sejak tahun 1990-an. Namun, pada awalnya perkembangannya lambat karena chip masih besar dan tebal. Chip komputer berdaya rendah yang disebut tag RFID pertama kali digunakan untuk melacak peralatan mahal. Seiring ukuran perangkat komputasi semakin kecil, chip-chip ini juga menjadi lebih kecil, lebih cepat, dan lebih cerdas.
+
+Biaya untuk mengintegrasikan daya komputasi ke dalam objek kecil pun berkurang secara signifikan. Sebagai contoh, dimungkinkan untuk menambahkan konektivitas melalui kemampuan layanan suara Alexa ke MCU dengan RAM onboard kurang dari 1 MB, seperti sakelar lampu. Seluruh sektor kemudian muncul dengan tujuan mengisi rumah, perusahaan, dan tentu saja berbagai perangkat dengan perangkat IoT. Objek-objek pintar ini dapat secara otomatis mengirimkan data ke dan dari internet. “Perangkat komputasi tak terlihat” ini beserta teknologinya disebut Internet of Things.
